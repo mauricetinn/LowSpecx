@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LowSpecx
-- 👀 I’m interested in building apps, machine learning, gaming
-- 🌱 I’m currently learning in Apple Developer Academy
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Maurice
+- 👀 I’m building iOS apps
+- 🌱 Ex Tokopedia Software Engineer(iOS) and alumni of Apple Developer Academy
 - 📫 How to reach me : mauricetin.916@gmail.com(email me!)
 
 <!---
